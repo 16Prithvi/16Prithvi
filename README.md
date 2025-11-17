@@ -15,7 +15,34 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=16Prithvi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=16Prithvi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=16Prithvi&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+> 📌 *This chart highlights your most active repositories based on contribution volume across all years.*
+
+---
+
+### 🚀 Featured Projects
+
+- [**sql-survival-game**](https://github.com/16Prithvi/sql-survival-game) ⭐  
+  A terminal-based survival game built with SQL logic and procedural storytelling. Great for showcasing database creativity and command-line interactivity.
+
+- [**NutriTrack**](https://github.com/16Prithvi/NutriTrack)  
+  A nutrition tracking app that helps users monitor their daily intake. Combines frontend UI with backend data handling for health-conscious users.
+
+- [**Smart-Logistics**](https://github.com/16Prithvi/Smart-Logistics)  
+  Logistics optimization platform using smart routing and real-time tracking. Demonstrates problem-solving in supply chain and transport systems.
+
+- [**FinVista**](https://github.com/16Prithvi/FinVista)  
+  A financial dashboard for visualizing personal or business metrics. Highlights your skills in data visualization and API integration.
+
+- [**EcoMap**](https://github.com/16Prithvi/EcoMap)  
+  Environmental mapping tool that displays pollution and sustainability metrics. Great example of combining geospatial data with social impact.
+
+---
+
+### 🧠 Tech Stack Highlights
+`SQL` · `Python` · `JavaScript` · `React` · `Node.js` · `FastAPI` · `MongoDB` · `Vite` · `TailwindCSS`
+
+---
