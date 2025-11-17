@@ -23,26 +23,3 @@
 
 ---
 
-### 🚀 Featured Projects
-
-- [**sql-survival-game**](https://github.com/16Prithvi/sql-survival-game) ⭐  
-  A terminal-based survival game built with SQL logic and procedural storytelling. Great for showcasing database creativity and command-line interactivity.
-
-- [**NutriTrack**](https://github.com/16Prithvi/NutriTrack)  
-  A nutrition tracking app that helps users monitor their daily intake. Combines frontend UI with backend data handling for health-conscious users.
-
-- [**Smart-Logistics**](https://github.com/16Prithvi/Smart-Logistics)  
-  Logistics optimization platform using smart routing and real-time tracking. Demonstrates problem-solving in supply chain and transport systems.
-
-- [**FinVista**](https://github.com/16Prithvi/FinVista)  
-  A financial dashboard for visualizing personal or business metrics. Highlights your skills in data visualization and API integration.
-
-- [**EcoMap**](https://github.com/16Prithvi/EcoMap)  
-  Environmental mapping tool that displays pollution and sustainability metrics. Great example of combining geospatial data with social impact.
-
----
-
-### 🧠 Tech Stack Highlights
-`SQL` · `Python` · `JavaScript` · `React` · `Node.js` · `FastAPI` · `MongoDB` · `Vite` · `TailwindCSS`
-
----
