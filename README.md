@@ -18,8 +18,6 @@
 
 </div>
 
----
-
 ## 💫 About Me
 
 🔭 **Currently working on:** Advanced Deep Learning & Scalable Full-Stack Apps  
@@ -27,11 +25,7 @@
 🤝 **Open to:** Collaborative AI-driven Web Solutions  
 ⚡ **Philosophy:** Solving real-world problems through clean code.
 
----
-
 ## 🛠️ Core Tech Stack
-
-<div align="center">
 
 | Category | Technologies |
 | :-- | :-- |
@@ -41,13 +35,7 @@
 | **Data & ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,sqlite" /> |
 | **Cloud/DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions" /> |
 
-</div>
-
----
-
 ## 🚀 Featured Projects
-
-<div align="center">
 
 <table>
 <tr>
@@ -61,7 +49,11 @@
 • Secure payments  
 • Admin dashboards  
 
-🔗 https://github.com/16Prithvi/MediFlow-SaaS
+<p align="center">
+  <a href="https://github.com/16Prithvi/MediFlow-SaaS">
+    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 </td>
 
@@ -74,7 +66,11 @@
 • Interactive UI  
 • Query logic mastery  
 
-🔗 https://github.com/16Prithvi/SQL-Survival-Game
+<p align="center">
+  <a href="https://sql-survival-game.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 </td>
 
@@ -87,53 +83,28 @@
 • Personalized insights  
 • ML-powered backend  
 
-🔗 https://github.com/16Prithvi/NutriTrack
+<p align="center">
+  <a href="https://github.com/16Prithvi/NutriTrack">
+    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
----
-
 ## 📊 GitHub Insights
-
-<div align="center">
 
 <img 
   src="https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true" 
-  width="48%" 
 />
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=16Prithvi&layout=compact&theme=dark&hide_border=true" 
-  width="48%" 
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=16Prithvi&theme=dark&hide_border=true" 
-    width="60%" 
-  />
-</div>
-
----
 
 ## 🐍 Contribution Graph
 
-<div align="center">
-  <img 
-    src="https://github.com/16Prithvi/16Prithvi/blob/output/github-contribution-grid-snake.svg" 
-  />
-</div>
-
----
+<img 
+  src="https://raw.githubusercontent.com/16Prithvi/16Prithvi/output/github-contribution-grid-snake.svg" 
+/>
 
 ## 🌐 Let’s Connect
 
