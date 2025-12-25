@@ -15,19 +15,10 @@
 
 ### 💫 About Me
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <p>🔭 <b>Currently working on:</b> Advanced Deep Learning & Scalable Full-Stack Apps</p>
-      <p>🌱 <b>Learning:</b> DevOps Pipelines (CI/CD) & Microservices Architecture</p>
-      <p>🤝 <b>Open to:</b> Collaborative AI-driven Web Solutions</p>
-      <p>⚡ <b>Philosophy:</b> Solving real-world problems through clean code.</p>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ2Z6Znd4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4Zzh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+🔭 **Currently working on:** Advanced Deep Learning & Scalable Full-Stack Apps  
+🌱 **Learning:** DevOps Pipelines (CI/CD) & Microservices Architecture  
+🤝 **Open to:** Collaborative AI-driven Web Solutions  
+⚡ **Philosophy:** Solving real-world problems through clean code.
 
 ---
 
@@ -49,43 +40,35 @@
 
 ### 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/16Prithvi/MediFlow-SaaS">
-    <img src="https://img.shields.io/badge/MediFlow%20SaaS-Hospital%20Management-blue?style=for-the-badge&logo=next.js" alt="MediFlow SaaS" />
-  </a>
-  <br/>
-  Next.js • SQL • Payments
+### 🏥 MediFlow SaaS
+**Full-Stack Hospital Management Platform** *Next.js • SQL • Stripe • Tailwind CSS* > A comprehensive SaaS solution managing Patient, Doctor, and Admin workflows with integrated secure payments.  
+[**View Repository**](https://github.com/16Prithvi/MediFlow-SaaS)
 
-  <br/><br/>
+<br/>
 
-  <a href="https://github.com/16Prithvi/SQL-Survival-Game">
-    <img src="https://img.shields.io/badge/SQL%20Survival%20Game-Interactive%20Learning-green?style=for-the-badge&logo=sqlite" alt="SQL Survival Game" />
-  </a>
-  <br/>
-  Next.js • SQLite • Gamified
+### 🎮 SQL Survival Game
+**Interactive Learning Adventure** *Next.js • SQLite • Framer Motion* > A gamified environment designed to help developers practice complex SQL queries through an immersive adventure interface.  
+[**View Repository**](https://github.com/16Prithvi/SQL-Survival-Game)
 
-  <br/><br/>
+<br/>
 
-  <a href="https://github.com/16Prithvi/NutriTrack">
-    <img src="https://img.shields.io/badge/NutriTrack-AI%20Nutrition%20Advisor-orange?style=for-the-badge&logo=python" alt="NutriTrack" />
-  </a>
-  <br/>
-  ML • React • FastAPI
-</div>
+### 🍎 NutriTrack
+**AI-Powered Nutrition Advisor** *FastAPI • ML • React • NumPy* > Leverages Machine Learning to analyze dietary patterns and provide personalized health recommendations.  
+[**View Repository**](https://github.com/16Prithvi/NutriTrack)
 
 ---
 
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16Prithvi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=false&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16Prithvi&layout=compact&theme=dark&hide_border=false&title_color=36BCF7&text_color=ffffff" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=16Prithvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=16Prithvi&theme=dark&hide_border=false&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakNum=36BCF7" alt="GitHub Streak" />
 </div>
 
 ---
@@ -93,7 +76,7 @@
 ### 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-snake.vercel.app/api/snake?github=16Prithvi&color_dot=%23bfd6f6&color_active=%2336BCF7&color_snake=%2336BCF7" alt="Contribution Snake" />
+  <img src="https://github.com/16Prithvi/16Prithvi/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
