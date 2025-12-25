@@ -96,7 +96,7 @@
 
 ## 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
 
 ## 🐍 Contribution Graph
 
