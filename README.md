@@ -96,9 +96,7 @@
 
 ## 📊 GitHub Insights
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true" 
-/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true)
 
 ## 🐍 Contribution Graph
 
