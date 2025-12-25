@@ -11,19 +11,14 @@
   />
 </a>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20Deep%20Learning-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Goal-Software%20Engineer%20%40%202026-green?style=for-the-badge">
-</p>
-
-</div>
-
 ## 💫 About Me
 
-🔭 **Currently working on:** Advanced Deep Learning & Scalable Full-Stack Apps  
-🌱 **Learning:** DevOps Pipelines (CI/CD) & Microservices Architecture  
-🤝 **Open to:** Collaborative AI-driven Web Solutions  
-⚡ **Philosophy:** Solving real-world problems through clean code.
+I’m a Computer Science undergraduate focused on building **reliable, scalable software systems** with a strong foundation in **full-stack development, machine learning, and cloud technologies**.
+
+I enjoy working across the stack — from designing clean user interfaces to developing efficient backend services and experimenting with data-driven solutions. I’m particularly interested in applying engineering principles to solve **real-world problems** through well-structured, maintainable code.
+
+Currently, I’m strengthening my skills in **DevOps practices (CI/CD, containerization)** and **modern system design**, while remaining open to collaborative projects and industry-oriented opportunities.
+
 
 ## 🛠️ Core Tech Stack
 
