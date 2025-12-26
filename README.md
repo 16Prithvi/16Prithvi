@@ -55,7 +55,7 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 <td width="33%" valign="top">
 
 ### 🎮 SQL Survival Game  
-*Next.js · SQLite · Framer Motion*
+*React · SQLite · FAST API*
 
 • Story-based SQL challenges  
 • Interactive UI  
@@ -72,7 +72,7 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 <td width="33%" valign="top">
 
 ### 🍎 NutriTrack  
-*FastAPI · ML · React · NumPy*
+*React · Express · MongoDB · Node.js*
 
 • Diet analysis  
 • Personalized insights  
