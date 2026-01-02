@@ -40,7 +40,7 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 ### 🛩️ AI Code Reviewer  
 *AWS · S3 · Lambda · Python *
 
-• AI-driven security audits 
+• AI-driven security audits
 • Serverless CI/CD automation
 • Automated PDF report archival
 
