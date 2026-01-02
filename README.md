@@ -37,15 +37,15 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 <td width="33%" valign="top">
 
-### 🏥 AI Code Reviewer  
-*AWS · S3 · Lambda · Python*
+### 🛩️ AI Code Reviewer  
+*AWS · S3 · Lambda · Python *
 
 • AI-driven security audits   
 • Serverless CI/CD automation
 • Automated PDF report archival
 
 <p align="center">
-  <a href="https://github.com/16Prithvi/MediFlow-SaaS">
+  <a href="https://github.com/16Prithvi/ai-code-reviewer">
     <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
   </a>
 </p>
