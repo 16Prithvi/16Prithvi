@@ -46,50 +46,29 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 ## 🚀 Featured Projects
 
----
+<div align="center">
 
 ### 🤖 AI Code Reviewer  
-*AWS · S3 · Lambda · Python*
-
-- AI-driven security audits  
-- Serverless CI/CD automation  
-- Automated PDF report archival  
-
-<p>
-  <a href="https://github.com/16Prithvi/ai-code-reviewer">
-    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
-  </a>
-</p>
+*AWS · S3 · Lambda · Python*  
+AI security audits · Serverless CI/CD · PDF reporting  
+<a href="https://github.com/16Prithvi/ai-code-reviewer">View Repository</a>
 
 ---
 
 ### 🎮 SQL Survival Game  
-*React · SQLite · FastAPI*
-
-- Story-based SQL challenges  
-- Interactive UI  
-- Query logic mastery  
-
-<p>
-  <a href="https://sql-survival-game.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</p>
+*React · SQLite · FastAPI*  
+Story-based SQL · Interactive UI · Query mastery  
+<a href="https://sql-survival-game.vercel.app/">Live Demo</a>
 
 ---
 
 ### 🍎 NutriTrack  
-*React · Express · MongoDB · Node.js*
+*React · Express · MongoDB · Node.js*  
+Diet analysis · Personalized insights · ML backend  
+<a href="https://github.com/16Prithvi/NutriTrack">View Repository</a>
 
-- Diet analysis  
-- Personalized insights  
-- ML-powered backend  
+</div>
 
-<p>
-  <a href="https://github.com/16Prithvi/NutriTrack">
-    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
-  </a>
-</p>
 
 
 
