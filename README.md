@@ -44,41 +44,66 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 
 
+
+
 ## 🚀 Featured Projects
 
-### ⭐ AI Code Reviewer
-**Role:** Backend · Cloud · Automation  
-**Tech:** AWS, S3, Lambda, Python  
+<table>
+<tr>
 
-→ AI-driven security audits  
-→ Serverless CI/CD automation  
-→ Automated PDF report archival  
+<td width="33%" valign="top">
 
-🔗 **Repository:** https://github.com/16Prithvi/ai-code-reviewer
+### 🤖 AI Code Reviewer
+*AWS · S3 · Lambda · Python*
 
----
+- AI-driven security audits
+- Serverless CI/CD automation
+- Automated PDF report archival
 
-### ⭐ SQL Survival Game
-**Role:** Frontend · Backend · Education  
-**Tech:** React, SQLite, FastAPI  
+<p align="center">
+  <a href="https://github.com/16Prithvi/ai-code-reviewer">
+    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
+  </a>
+</p>
 
-→ Story-based SQL challenges  
-→ Interactive learning UI  
-→ Query logic mastery  
+</td>
 
-🔗 **Live Demo:** https://sql-survival-game.vercel.app/
+<td width="33%" valign="top">
 
----
+### 🎮 SQL Survival Game  
+*React · SQLite · FAST API*
 
-### ⭐ NutriTrack
-**Role:** Full-Stack · ML  
-**Tech:** React, Express, MongoDB, Node.js  
+• Story-based SQL challenges  
+• Interactive UI  
+• Query logic mastery  
 
-→ Smart diet analysis  
-→ Personalized nutrition insights  
-→ ML-powered backend  
+<p align="center">
+  <a href="https://sql-survival-game.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
-🔗 **Repository:** https://github.com/16Prithvi/NutriTrack
+</td>
+
+<td width="33%" valign="top">
+
+### 🍎 NutriTrack  
+*React · Express · MongoDB · Node.js*
+
+• Diet analysis  
+• Personalized insights  
+• ML-powered backend  
+
+<p align="center">
+  <a href="https://github.com/16Prithvi/NutriTrack">
+    <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 
 
