@@ -91,7 +91,20 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 ## 📊 GitHub Insights
 
-![](https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=16Prithvi&theme=dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=16Prithvi&theme=github-dark&hide_border=true" />
+
+</div>
+
 
 ## 🐍 Contribution Graph
 
