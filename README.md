@@ -20,30 +20,34 @@ I enjoy working across the stack — from designing clean user interfaces to dev
 Currently, I’m strengthening my skills in **DevOps practices (CI/CD, containerization)** and **modern system design**, while remaining open to collaborative projects and industry-oriented opportunities.
 
 
+
 ## 🛠️ Core Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,bash,r" />
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,bash,r" />
+</p>
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vue,vite" />
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vue,vite" />
+</p>
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" />
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" />
+</p>
 
 ### 📊 Data & ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,sqlite" />
-
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,sqlite" />
+</p>
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions" />
+</p>
+
 
 
 ## 🚀 Featured Projects
