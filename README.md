@@ -22,93 +22,74 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 
 
-## 🛠️ Core Tech Stack
-
-### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,bash,r" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vue,vite" />
-</p>
 
 ### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" />
-</p>
+## 🛠️ Core Tech Stack
 
-### 📊 Data & ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,sqlite" />
-</p>
+**Languages**  
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,bash,r" />
 
-### ☁️ Cloud & DevOps
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions" />
-</p>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vue,vite" />
+
+**Backend**  
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" />
+
+**Data & ML**  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,sqlite" />
+
+**Cloud/DevOps**  
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions" />
+
 
 
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+---
 
-<td width="33%" valign="top">
-
-### 🤖 AI Code Reviewer
+### 🤖 AI Code Reviewer  
 *AWS · S3 · Lambda · Python*
 
-- AI-driven security audits
-- Serverless CI/CD automation
-- Automated PDF report archival
+- AI-driven security audits  
+- Serverless CI/CD automation  
+- Automated PDF report archival  
 
-<p align="center">
+<p>
   <a href="https://github.com/16Prithvi/ai-code-reviewer">
     <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
   </a>
 </p>
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🎮 SQL Survival Game  
-*React · SQLite · FAST API*
+*React · SQLite · FastAPI*
 
-• Story-based SQL challenges  
-• Interactive UI  
-• Query logic mastery  
+- Story-based SQL challenges  
+- Interactive UI  
+- Query logic mastery  
 
-<p align="center">
+<p>
   <a href="https://sql-survival-game.vercel.app/">
     <img src="https://img.shields.io/badge/Live%20Demo-1f6feb?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </p>
 
-</td>
-
-<td width="33%" valign="top">
+---
 
 ### 🍎 NutriTrack  
 *React · Express · MongoDB · Node.js*
 
-• Diet analysis  
-• Personalized insights  
-• ML-powered backend  
+- Diet analysis  
+- Personalized insights  
+- ML-powered backend  
 
-<p align="center">
+<p>
   <a href="https://github.com/16Prithvi/NutriTrack">
     <img src="https://img.shields.io/badge/View%20Repository-000000?style=for-the-badge&logo=github">
   </a>
 </p>
-
-</td>
-
-</tr>
-</table>
 
 
 
