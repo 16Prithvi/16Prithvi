@@ -46,28 +46,24 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-### 🤖 AI Code Reviewer  
-*AWS · S3 · Lambda · Python*  
-AI security audits · Serverless CI/CD · PDF reporting  
-<a href="https://github.com/16Prithvi/ai-code-reviewer">View Repository</a>
+### 2025 — AI Code Reviewer
+Built a **serverless AI auditing system** using AWS services  
+→ Focus: security, automation, cloud-native design  
+🔗 https://github.com/16Prithvi/ai-code-reviewer
 
 ---
 
-### 🎮 SQL Survival Game  
-*React · SQLite · FastAPI*  
-Story-based SQL · Interactive UI · Query mastery  
-<a href="https://sql-survival-game.vercel.app/">Live Demo</a>
+### 2024 — SQL Survival Game
+Designed an **interactive learning platform** for SQL mastery  
+→ Focus: frontend UX + backend logic  
+🔗 https://sql-survival-game.vercel.app/
 
 ---
 
-### 🍎 NutriTrack  
-*React · Express · MongoDB · Node.js*  
-Diet analysis · Personalized insights · ML backend  
-<a href="https://github.com/16Prithvi/NutriTrack">View Repository</a>
-
-</div>
+### 2024 — NutriTrack
+Developed a **full-stack nutrition tracking system**  
+→ Focus: personalization & ML integration  
+🔗 https://github.com/16Prithvi/NutriTrack
 
 
 
