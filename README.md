@@ -22,13 +22,29 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 ## 🛠️ Core Tech Stack
 
-| Category | Technologies |
-| :-- | :-- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,bash,r" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vue,vite" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" /> |
-| **Data & ML** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,sqlite" /> |
-| **Cloud/DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions" /> |
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,bash,r" />
+
+---
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,threejs,vue,vite" />
+
+---
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql" />
+
+---
+
+### 📊 Data & ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,mongodb,mysql,sqlite" />
+
+---
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,nginx,githubactions" />
+
 
 ## 🚀 Featured Projects
 
