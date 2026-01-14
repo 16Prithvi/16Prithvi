@@ -93,15 +93,15 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=16Prithvi&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=16Prithvi&layout=compact&theme=dark&hide_border=true" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=16Prithvi&theme=dark&hide_border=true" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=16Prithvi&theme=github_dark" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=16Prithvi&theme=github-dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=16Prithvi&theme=github_dark" />
 
 </div>
 
