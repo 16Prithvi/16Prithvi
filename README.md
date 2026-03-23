@@ -123,7 +123,7 @@ Currently, I’m strengthening my skills in **DevOps practices (CI/CD, container
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/prithvi-ganiger-10bb11365">
+<a href="https://linkedin.com/in/prithvi16">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
